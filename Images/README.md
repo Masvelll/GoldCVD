@@ -5,4 +5,4 @@
 
 
 
-- [при 150% заполнения](https://drive.google.com/file/d/10uLVbiGhUw8oeLB_W-b8Sb4t7hYbCxDo/view?usp=sharing)
+- [при 150% заполнения](https://drive.google.com/file/d/1htugyqIIF6aRMYT95jjlncKzGGEfoY8s/view?usp=drive_link)
