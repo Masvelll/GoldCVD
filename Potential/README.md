@@ -33,5 +33,5 @@ Forces:
 
 | RMSE| MAE|
 |--|--|
-| $0.283 \, eV/ \overset{\circ}{A}$| $0.084 \, eV / \overset{\circ}{A}$|
+| $0.283 $ $ eV/ \overset{\circ}{A}$| $0.084$ $eV / \overset{\circ}{A}$|
 
