@@ -3,6 +3,7 @@
 
 | Содержание|  |
 |--------------------|----------|
+| [Обучение потенциала](./Potential/) | <img src="./Potential/imgs/forces.png" width="200" height="auto"> |
 | [Поверхностная диффузия](./SurfaceDiffusion/) | <img src="./Images/diffusion.png" width="200" height="auto"> |
 | [Энергия активации (усредненная)](./ActivationEnergy/) | <img src="./Images/eact.png" width="200" height="auto"> |
 | [Энергия активации (один атом золота по поверхности)](./ActivationEnergy_one_atom/) | <img src="./Images/eact_Au_on_Cu.png" width="200" height="auto"> |
